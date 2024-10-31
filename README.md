@@ -1,1 +1,1 @@
-Hardware Implementation of  SHA3 using VerilogHDL
+Hardware Implementation of SHA3 Pipelined Using VerilogHDL
