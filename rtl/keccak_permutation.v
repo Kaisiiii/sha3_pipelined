@@ -407,9 +407,5 @@ always @(posedge clk or negedge rstn) begin
         s_out <=  A_out;
         rdy <= 1'b1;
     end
-    else begin
-        s_out <= 0;
-        rdy <= 0; 
-    end
 end
 endmodule
